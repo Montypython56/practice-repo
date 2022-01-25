@@ -1,27 +1,36 @@
-## First Name Last Name
+## Griffin Sun
 
-### Term Year 
+### SP2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data science
 
-- Course 2
+- Intro to Business Finance
 
-- Course 3
+- International comparative dimensions of business
 
-- Course 4
+- Macroeconomics 
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Long range marksmanship
 
-- Thing 2
+- Cooking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- "learning things" <https://www.floridapoly.edu>
 
 ***
+Have an image:
 
-> Last modified: YYYY/MM/DD
+![](dataNetwork.jpg)
+
+![]()
+
+#table
+
+| Not | Implemented |
+
+> Last modified: 2022/01/25
